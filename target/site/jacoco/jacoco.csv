@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Medipol Final Project,tr.edu.medipol,Controller,2,78,1,1,1,17,1,4,0,4
+Medipol Final Project,tr.edu.medipol,MedipolFinalProjectApplication,5,3,0,0,2,1,1,1,1,1
+Medipol Final Project,tr.edu.medipol,Controller.Task,0,15,0,0,0,1,0,3,0,3
+Medipol Final Project,tr.edu.medipol,Controller.Employee,6,9,0,0,0,1,2,1,2,1
