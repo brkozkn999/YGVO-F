@@ -57,7 +57,7 @@ public class ControllerTests {
             .andExpect(status().isOk())
             .andExpect(content().string("Task added successfully"));
 
-        mockMvc.perform(get("/taskList")) // Updated endpoint
+        mockMvc.perform(get("/taskList"))
                 .andExpect(status().isOk())
                 .andExpect(content().contentType(MediaType.APPLICATION_JSON))
                 .andExpect(jsonPath("$['1']", hasSize(1)))

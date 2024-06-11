@@ -9,5 +9,4 @@ class MedipolFinalProjectApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

@@ -3,7 +3,6 @@ package tr.edu.medipol;
 public class Task {
     String task;
 
-    // Default constructor
     public Task() {
     }
 
